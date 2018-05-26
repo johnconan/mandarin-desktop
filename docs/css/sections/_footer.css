@@ -1,0 +1,38 @@
+.footer {
+  margin-top: 75px;
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #d5f1ee;
+}
+.footer__titile h3 {
+  color: #303030;
+  font-family: 'Raleway';
+  font-size: 19px;
+  font-weight: 700;
+  letter-spacing: 3.8px;
+}
+.footer__description p {
+  color: #303030;
+  font-family: "Playfair Display";
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 45px;
+  letter-spacing: -0.8px;
+}
+.footer-author {
+  font-weight: 700;
+  color: #303030;
+  font-family: "Noto Serif";
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 27px;
+}
+.author__titile h3 {
+  margin: 0;
+  margin-top: 10px;
+}
+.author__text p {
+  margin: 0;
+  margin-top: 5px;
+}
